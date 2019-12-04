@@ -30,3 +30,6 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
     - __Perfect Binary Tree:__ A Binary tree is Perfect Binary Tree in which all internal nodes have two children and all leaves are at the same level
     - __Balanced Binary Tree:__ A binary tree is balanced if the height of the tree is O(Log n) where n is the number of nodes. Balanced Binary Search trees are performance wise good as they provide O(log n) time for search, insert and delete
     - __Degenerated Binary Tree:__ A Tree where every internal node has one child. Such trees are performance-wise same as linked list
+    
+### Examples
+- [`Maximum Depth of Binary Tree:`](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Solution](./src/practice/examples/MaxDepthOfBinaryTree.java) (Easy)
