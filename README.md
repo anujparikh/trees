@@ -31,5 +31,13 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
     - __Balanced Binary Tree:__ A binary tree is balanced if the height of the tree is O(Log n) where n is the number of nodes. Balanced Binary Search trees are performance wise good as they provide O(log n) time for search, insert and delete
     - __Degenerated Binary Tree:__ A Tree where every internal node has one child. Such trees are performance-wise same as linked list
     
+#### Binary Search Tree
+- __Binary Search Tree__ is a node-based binary tree data structure which has the following properties
+    - The left subtree of a node contains only nodes with keys lesser than the node’s key
+    - The right subtree of a node contains only nodes with keys greater than the node’s key
+    - The left and right subtree each must also be a binary search tree
+    - There must be no duplicate nodes
+    
 ### Examples
 - [`Maximum Depth of Binary Tree:`](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Solution](./src/practice/examples/MaxDepthOfBinaryTree.java) (Easy)
+- [`Validate Binary Search Tree:`](https://leetcode.com/problems/validate-binary-search-tree/) [Solution](./src/practice/examples/ValidBST.java) (Easy)
