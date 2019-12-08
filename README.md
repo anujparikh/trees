@@ -42,3 +42,4 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
 - [`Maximum Depth of Binary Tree:`](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Solution](./src/practice/examples/MaxDepthOfBinaryTree.java) (Easy)
 - [`Validate Binary Search Tree:`](https://leetcode.com/problems/validate-binary-search-tree/) [Solution](./src/practice/examples/ValidBST.java) (Easy)
 - [`Symmetric Tree:`](https://leetcode.com/problems/symmetric-tree/) [Solution](./src/practice/examples/SymmetricTree.java) (Easy)
+- [`Binary Tree Level Order Traversal:`](https://leetcode.com/problems/binary-tree-level-order-traversal/) [Solution](./src/practice/examples/BTLevelOrderTraversal.java) (Easy)
