@@ -38,6 +38,12 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
     - The left and right subtree each must also be a binary search tree
     - There must be no duplicate nodes
     
+#### Tree Traversal
+- __In-order traversal__ In this traversal method, the left subtree is visited first, then the root and later the right sub-tree. We should always remember that every node may represent a subtree itself. 
+    If a binary tree is traversed in-order, the output will produce sorted key values in an ascending order
+- __Pre-order traversal__ In this traversal method, the root node is visited first, then the left subtree and finally the right subtree
+- __Post-order traversal__ In this traversal method, the root node is visited last, hence the name. First we traverse the left subtree, then the right subtree and finally the root node
+
 ### Examples
 - [`Maximum Depth of Binary Tree:`](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [Solution](./src/practice/examples/MaxDepthOfBinaryTree.java) (Easy)
 - [`Validate Binary Search Tree:`](https://leetcode.com/problems/validate-binary-search-tree/) [Solution](./src/practice/examples/ValidBST.java) (Easy)
