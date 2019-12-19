@@ -1,4 +1,4 @@
-package pratice.examples;
+package practice.examples;
 
 /**
  * Given a binary tree, find its maximum depth.
