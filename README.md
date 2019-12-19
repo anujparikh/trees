@@ -51,3 +51,4 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
 - [`Binary Tree Level Order Traversal:`](https://leetcode.com/problems/binary-tree-level-order-traversal/) [Solution](./src/practice/examples/BTLevelOrderTraversal.java) (Easy)
 - [`Convert Sorted Array to Binary Search Tree:`](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [Solution](./src/practice/examples/HeightBalancedBST.java) (Easy)
 - [`Binary Tree Inorder Traversal:`](https://leetcode.com/problems/binary-tree-inorder-traversal/) [Solution](./src/practice/examples/BTInorderTraversal.java) (Easy)
+- [`Binary Tree Zigzag Level Order Traversal:`](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [Solution](./src/practice/examples/BTZigZagLevelOrderTraversal.java) (Easy)
