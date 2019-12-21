@@ -50,5 +50,6 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
 - [`Symmetric Tree:`](https://leetcode.com/problems/symmetric-tree/) [Solution](./src/practice/examples/SymmetricTree.java) (Easy)
 - [`Binary Tree Level Order Traversal:`](https://leetcode.com/problems/binary-tree-level-order-traversal/) [Solution](./src/practice/examples/BTLevelOrderTraversal.java) (Easy)
 - [`Convert Sorted Array to Binary Search Tree:`](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [Solution](./src/practice/examples/HeightBalancedBST.java) (Easy)
-- [`Binary Tree Inorder Traversal:`](https://leetcode.com/problems/binary-tree-inorder-traversal/) [Solution](./src/practice/examples/BTInorderTraversal.java) (Easy)
-- [`Binary Tree Zigzag Level Order Traversal:`](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [Solution](./src/practice/examples/BTZigZagLevelOrderTraversal.java) (Easy)
+- [`Binary Tree Inorder Traversal:`](https://leetcode.com/problems/binary-tree-inorder-traversal/) [Solution](./src/practice/examples/BTInorderTraversal.java) (Medium)
+- [`Binary Tree Zigzag Level Order Traversal:`](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [Solution](./src/practice/examples/BTZigZagLevelOrderTraversal.java) (Medium)
+- [`Construct Binary Tree from Preorder and Inorder Traversal:`](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [Solution](./src/practice/examples/BTFromPreAndInOrderTraversal.java) (Medium)
