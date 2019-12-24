@@ -55,3 +55,4 @@ Unlike Arrays, Linked Lists, Stack and queues, which are linear data structures,
 - [`Construct Binary Tree from Preorder and Inorder Traversal:`](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [Solution](./src/practice/examples/BTFromPreAndInOrderTraversal.java) (Medium)
 - [`Populating Next Right Pointers in Each Node:`](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [Solution with recursion](./src/practice/examples/NextPointerForEachNode.java) & [Solution with Queue](./src/practice/examples/NextPointerForEachNode2.java) (Medium)
 - [`Kth Smallest Element in a BST:`](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [Solution](./src/practice/examples/KthSmallestBST.java)(Medium)
+- [`Number of Islands:`](https://leetcode.com/problems/number-of-islands/) [Solution](./src/practice/examples/NumberOfIslands.java)(Medium)
